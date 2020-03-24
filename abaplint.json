@@ -78,7 +78,7 @@
     "7bit_ascii": {
       "exclude": ["zcl_abapgit_utils.clas.testclasses.abap"]
     },
-    "abapdoc": false,
+    "abapdoc": true,
     "check_ddic": true,
     "check_include": true,
     "form_no_dash": true,
